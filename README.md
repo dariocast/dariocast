@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dario
 I'm from Italy 🇮🇹 and
-- 🔭 I’m currently working on PADES signatures with js
+- 🔭 I’m currently working on LSP EU projects for digital identity and DIZME SSI stack
 - 🌱 I’m currently learning more on **Flutter** and **BLoC**
 - 📖 I'm currently studying **Algorand blockchain** and **E-voting**
 - 💬 Ask me about **Flutter, Algorand** 
